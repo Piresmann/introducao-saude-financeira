@@ -1,6 +1,6 @@
 # Introdução à Saúde Financeira 
 
-## Contexto e Objetivos
+## Contexto e Objetivos - https://notebooklm.google.com/notebook/c165cff1-fa23-4b23-b80e-7ed93d608f41
 
 Este projeto tem como objetivo apresentar conceitos fundamentais de **saúde financeira** para iniciantes.  
 A ideia é ajudar pessoas a entenderem como organizar suas finanças pessoais, criar hábitos sustentáveis e alcançar maior tranquilidade econômica.  
